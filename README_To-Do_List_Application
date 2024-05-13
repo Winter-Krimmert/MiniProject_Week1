@@ -1,0 +1,14 @@
+In this program we are creating a To-Do list.
+
+Within the program We can add an item to the list as an incomplete task and further add to the list, tracking which items are incomplete.
+Once an item is complete, we mark the item as complete, giving us the ability to process tasks through our To-Do list program.
+We can view our To-Do items as a list and conversely we can also view a list of completed items. If we wish, we can also delete items. We can also select quit to quit the application.
+
+The user is guided by a prompt via the command line to select options throughout a menu by entering a number corresponding to the option you want to select.
+1. Add a task
+2. View a tasks
+    -view complete
+    -view incomplete 
+3. Mark a task as complete
+4. Delete a task
+5. Quit the program
